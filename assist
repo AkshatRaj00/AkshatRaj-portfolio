@@ -1,0 +1,12 @@
+your-portfolio-folder/
+│
+├── assets/
+│   ├── resume.pdf               ✅
+│   └── images/
+│       ├── photo.jpg            ✅
+│       ├── spam_detector.jpg    ✅
+│       ├── ai_voice_assistant.jpg
+│       ├── nextgen_ai_assistant.jpg
+│       ├── gesture_controlled_robot.jpg
+│       ├── emotion_detector.jpg
+│       └── ai_attendance_system.jpg
